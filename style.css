@@ -1,7 +1,8 @@
 nav {
-    background-color:blue;
+    color: black;
+    background-color:blanchedalmond
 }
 
-body {
-    background-image: url(bd63c6_86dd2a2238474c409666d8cd3cedbc08~mv2.webp) ;
+img {
+    size: 300px;
 }
