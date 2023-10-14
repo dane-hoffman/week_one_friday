@@ -1,6 +1,18 @@
+
+body{
+    background-image: url("bd63c6_86dd2a2238474c409666d8cd3cedbc08~mv2.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: bisque;
+
+}
 nav {
     color: black;
-    background-color:blanchedalmond
+    background-color:blanchedalmond;
+}
+
+nav ul{
+  list-style: none;
 }
 
 img {
@@ -8,6 +20,20 @@ img {
     border-radius: 4px;
     padding: 5px;
     width: 150px;
+    height: 150px;
   }
+
+  section {
+    display: inline-block;
+  }
+
+  ol,h2{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+
+  }
+
 
   
